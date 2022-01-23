@@ -1,7 +1,7 @@
 
 
 
-# Hi, i'm AleGHB :)
+# Hola, soy Alejandro!
 
 - I'm a JS beginner developer. 
 - I'll try to learn Java soon.
